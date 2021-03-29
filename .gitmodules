@@ -1,0 +1,3 @@
+[submodule "react-node-crud"]
+	path = react-node-crud
+	url = git@github.com:ironstein0/react-node-crud-starter.git
