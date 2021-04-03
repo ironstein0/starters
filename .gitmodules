@@ -1,6 +1,0 @@
-[submodule "react-node-crud"]
-	path = react-node-crud
-	url = git@github.com:ironstein0/react-node-crud-starter.git
-[submodule "node-typescript"]
-	path = node-typescript
-	url = git@github.com:ironstein0/node-typescript-starter.git
